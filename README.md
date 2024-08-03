@@ -1,1 +1,38 @@
 # Instacart-Basket-Analysis-Python
+
+Acting as an analyst for Instacart, my task was to uncover more information about their sales patterns. I
+performed an initial data and exploratory analysis of some of their data in order
+to derive insights and suggest strategies for better segmentation based on
+the provided criteria.
+
+### Who are Instacart?
+
+Instacart is an online grocery store that operates through an app in the U.S.
+
+### Context
+
+The Instacart stakeholders were interested in the variety of customers in their database
+along with their purchasing behaviors. They wanted to target different customers with applicable marketing campaigns to see whether they would have an effect
+on the sale of their products.
+
+### Key Questions
+
+● The sales team needs to know what the busiest days of the week and hours of the
+day are (i.e., the days and times with the most orders) in order to schedule ads at
+times when there are fewer orders.
+
+● They also want to know whether there are particular times of the day when people
+spend the most money, as this might inform the type of products they advertise at
+these times.
+
+● Instacart has a lot of products with different price tags. Marketing and sales want to
+use simpler price range groupings to help direct their efforts.
+
+● Are there certain types of products that are more popular than others? The marketing
+and sales teams want to know which departments have the highest frequency of
+product orders.
+
+### Tools
+
+I used Python and relevant libraries (pandas, NumPy, os,
+matplotlib, scipy, and seaborn) for this analysis.
